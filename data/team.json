@@ -1,0 +1,121 @@
+{
+  "title" : "Team",
+  "description" : "We are a small company of dedicated people and not the usual farm of workers. We are providing consulting services since 1989. We only hire staff with proven track records and only after we test them out on sample projects. All of our staff are with BSc or MSc in IT.",
+  "members" : [
+    {
+      "name" : "Vilmos Somogyi",
+      "description" : "CEO",
+      "avatar" : "vilmos.png"
+    },
+    {
+      "name" : "Tibor Dudjik",
+      "description" : "COO",
+      "avatar" : "tibor.png"
+    },
+    {
+      "name" : "Maja Alic Dudjik",
+      "description" : "CFO",
+      "avatar" : "maja.png"
+    },
+    {
+      "name" : "Szabolcs Varsandan",
+      "description" : "QA Lead",
+      "avatar" : "szabolcs.png"
+    },
+    {
+      "name" : "Akos Szabo",
+      "description" : "QA Engeneer",
+      "avatar" : "akos.png"
+    },
+    {
+      "name" : "Aleksandar Gospodinovic",
+      "description" : "QA Engeneer",
+      "avatar" : "lesa.png"
+    },
+    {
+      "name" : "Csaba Varsandan",
+      "description" : "QA Engeneer",
+      "avatar" : "csaba.png"
+    },
+    {
+      "name" : "Dane Dukic",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "dane.png"
+    },
+    {
+      "name" : "Daniel Snejder",
+      "description" : "QA Engeneer",
+      "avatar" : "daniel.png"
+    },
+    {
+      "name" : "Ivan Konjevic",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "ivan.png"
+    },
+    {
+      "name" : "Jelena Krstic",
+      "description" : "Office Manager / QA Engeneer",
+      "avatar" : "jelena.png"
+    },
+    {
+      "name" : "Luka Pavlica",
+      "description" : "Back-End Developer",
+      "avatar" : "luka.png"
+    },
+    {
+      "name" : "Marina Petrovic",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "marina.png"
+    },
+    {
+      "name" : "Milica Lazic",
+      "description" : "Back-End Developer",
+      "avatar" : "milica.png"
+    },
+    {
+      "name" : "Miroljub Arbutina",
+      "description" : "Back-End Developer",
+      "avatar" : "miroljub.png"
+    },
+    {
+      "name" : "Nikola Vujaklija",
+      "description" : "QA Engeneer",
+      "avatar" : "nikola.png"
+    },
+    {
+      "name" : "Tajana Somogyi",
+      "description" : "UI / UX designer",
+      "avatar" : "tajana.png"
+    },
+    {
+      "name" : "Tamas Kovacsics",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "tamas.png"
+    },
+    {
+      "name" : "Tibor Szakmany",
+      "description" : "Back-End Developer",
+      "avatar" : "tibor_szakmany.png"
+    },
+    {
+      "name" : "Tihomir Popov",
+      "description" : "Front-End Developer",
+      "avatar" : "tihomir.png"
+    },
+    {
+      "name" : "Valentino Milanov",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "vlatko.png"
+    },
+    {
+      "name" : "Vlatko Dimitrovski",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "vlatko.png"
+    },
+    {
+      "name" : "Zoltan Meze",
+      "description" : "Automated QA Engeneer",
+      "avatar" : "zoltan.png"
+    }
+  ]
+}

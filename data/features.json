@@ -1,0 +1,21 @@
+{
+  "title" : "Our Services",
+  "description" : "Our services include working with different methodologies like Agile, Scrumm, Traditional. We adapt to any standard or custom methodology used at the partner's end.",
+  "content" : [
+    {
+      "icon" : "code",
+      "title" : "Web Development",
+      "description" : "We help you craft functional and high-performing apps and websites through our effective web development services."
+    },
+    {
+      "icon" : "bug",
+      "title" : "WeDoQA.com",
+      "description" : "We specialize in Quality Assurance and we do it exceptionally. We are an official Selenium Commercial support provider as part of the Selenium Ecosystem."
+    },
+    {
+      "icon" : "bell",
+      "title" : "Project Management",
+      "description" : "We can take over the PM of any project in any stage of development. If needed we can bring in our in house QA team to make sure the final product is on time and of high quality."
+    }
+  ]
+}
