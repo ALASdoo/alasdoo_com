@@ -1,5 +1,5 @@
 {
-  "brand" : "Green paper",
+  "brand" : "ALAS d.o.o.",
   "logo" : "logo.svg",
   "links" : [
     {
@@ -11,8 +11,12 @@
       "href" : "#features"
     },
     {
-      "title" : "Pricing",
-      "href" : "#pricing"
+      "title" : "Team",
+      "href" : "#team"
+    },
+    {
+      "title" : "Careers",
+      "href" : "#careers"
     },
     {
       "title" : "Contact",

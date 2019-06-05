@@ -1,18 +1,94 @@
 {
   "title" : "Some of our awesome clients",
-  "description" : "These are just sample logos",
+  "description" : "TODO: description",
   "clients" : [
     {
-      "title" : "Produthunt",
-      "image" : "producthunt.png"
+      "title" : "Brandwatch",
+      "image" : "brandwatch.svg"
     },
     {
-      "title" : "Google",
-      "image" : "google.png"
+      "title" : "SimpleSite",
+      "image" : "simplesite.svg"
     },
     {
-      "title" : "Facebook",
-      "image" : "facebook.png"
+      "title" : "SureClinical",
+      "image" : "sureclinical.jpg"
+    },
+    {
+      "title" : "SimplyAnalytics",
+      "image" : "simplyanalytics.svg"
+    },
+    {
+      "title" : "MyDirectives",
+      "image" : "mydirectives.png"
+    },
+    {
+      "title" : "it4communication",
+      "image" : "it4communication.png"
+    },
+    {
+      "title" : "CareStratus",
+      "image" : "carestratus.png"
+    },
+    {
+      "title" : "RetireUp",
+      "image" : "retireup.svg"
+    },
+    {
+      "title" : "PaperTrail",
+      "image" : "papertrail.png"
+    },
+    {
+      "title" : "eGain",
+      "image" : "egain.gif"
+    },
+    {
+      "title" : "HyperMedia",
+      "image" : "hypermedia.gif"
+    },
+    {
+      "title" : "BlazeMeter",
+      "image" : "blazemeter.svg"
+    },
+    {
+      "title" : "DaviesMeyer",
+      "image" : "daviesmeyer.png"
+    },
+    {
+      "title" : "HotelCloud",
+      "image" : "hotelcloud.png"
+    },
+    {
+      "title" : "Coconut",
+      "image" : "coconut.png"
+    },
+    {
+      "title" : "GoKid",
+      "image" : "gokid.png"
+    },
+    {
+      "title" : "WebInterpret",
+      "image" : "webinterpret.webp"
+    },
+    {
+      "title" : "konecranes",
+      "image" : "konecranes.svg"
+    },
+    {
+      "title" : "InsuredByUs",
+      "image" : "insuredbyus.svg"
+    },
+    {
+      "title" : "InWise",
+      "image" : "inwise.png"
+    },
+    {
+      "title" : "FFL123",
+      "image" : "ffl123.jpg"
+    },
+    {
+      "title" : "dakotasilencer",
+      "image" : "dakotasilencer.jpg"
     }
   ]
 }

@@ -2,10 +2,10 @@
 	"title" : "Because quality matters!",
 	"description" : "ALAS doo is dedicated to the highest quality of development and quality assurance delivered with innovation, originality and ingenuity",
 	"illustration" : "freelancing.svg",
-	"alt_text" : "Or see why we worth it",
+	"alt_text" : "Or see why we are worth it",
 	"alt_href" : "#features",
 	"button" : {
-		"text" : "Contact",
+		"text" : "Contact us",
 		"href" : "#contact"
 	}
 }
