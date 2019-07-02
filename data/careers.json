@@ -1,33 +1,32 @@
 {
   "title" : "Careers",
-  "description" : "TODO: careers text",
   "content" : [
     {
       "title" : "Experienced Frontend Developer",
       "button" : {
         "text" : "Apply now",
-        "href" : "http://www.alasdoo.com/jobsfrontend/"
+        "href" : "//www.alasdoo.com/jobsfrontend/"
       }
     },
     {
       "title" : "Experienced Fullstack Developer (.net, angular)",
       "button" : {
         "text" : "Apply now",
-        "href" : "http://www.alasdoo.com/jobsfrontend/"
+        "href" : "//www.alasdoo.com/jobs/"
       }
     },
     {
       "title" : "Automated QA Engeneer",
       "button" : {
         "text" : "Apply now",
-        "href" : "http://www.alasdoo.com/jobsfrontend/"
+        "href" : "//www.alasdoo.com/jobsfrontend/"
       }
     },
     {
       "title" : "Manual QA Engeneer",
       "button" : {
         "text" : "Apply now",
-        "href" : "http://www.alasdoo.com/jobsfrontend/"
+        "href" : "//www.alasdoo.com/jobsfrontend/"
       }
     }
   ]

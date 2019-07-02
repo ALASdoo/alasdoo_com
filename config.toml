@@ -1,5 +1,5 @@
-# baseURL = "https://alasdoo.com/"
-baseURL = "https://alasdoo.netlify.com/"
+baseURL = "https://alasdoo.com/"
+# baseURL = "https://alasdoo.netlify.com/"
 languageCode = "en-us"
 title = "ALAS d.o.o."
 theme = "hugo-lime"
