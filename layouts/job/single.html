@@ -2,10 +2,9 @@
 {{- $logoSrc := printf "images/%s" $header.logo | absURL -}}
 {{ partial "header.html" . }}
   <section id="logo">
-      <img src="{{$logoSrc}}" />
+      <a href="{{.Site.BaseURL}}"><img src="{{$logoSrc}}" /></a>
   </section>
   <section id="main">
-    <h1 id="title"></h1>
     <div class="container">
         <h1 class="pt-5 h2 text-center">Job: {{ .Title }}</h1>
 

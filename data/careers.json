@@ -2,31 +2,17 @@
   "title" : "Careers",
   "content" : [
     {
-      "title" : "Experienced Frontend Developer",
+      "title" : "Lead QA Engeneer",
       "button" : {
         "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobsfrontend/"
+        "href" : "//www.alasdoo.com/jobs/lead-qa-engineer/"
       }
     },
     {
-      "title" : "Experienced Fullstack Developer (.net, angular)",
+      "title" : "QA Engeneer",
       "button" : {
         "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobs/"
-      }
-    },
-    {
-      "title" : "Automated QA Engeneer",
-      "button" : {
-        "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobsfrontend/"
-      }
-    },
-    {
-      "title" : "Manual QA Engeneer",
-      "button" : {
-        "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobsfrontend/"
+        "href" : "//www.alasdoo.com/jobs/qa-engineer/"
       }
     }
   ]

@@ -14,7 +14,6 @@ layout: single
 > You will be able to gain experience how to work in an international team with highly skilled people, how to make a product more stable and more usable for the final users.
 > If you are detail oriented, we will be happy to hear from you.
 
----
 ### RESPONSIBILITIES
 * Test applications and websites for the clients
 * Write smoke tests and other test cases
