@@ -12,13 +12,13 @@
     <link href="{{ "favicon.png" | absURL }}" rel="icon" />
 
     <!-- og -->
-    <meta name="og:title" content="{{ .Title }}"/>
-  <meta name="og:url" content="{{ .Permalink }}"/>
-	<meta name="og:image" content="https:{{.Site.BaseURL}}images/logo.png"/>
+    <meta property="og:title" content="{{ .Title }}"/>
+  <meta property="og:url" content="{{ .Permalink }}"/>
+	<meta property="og:image" content="https:{{.Site.BaseURL}}images/logo.png"/>
 	{{ if .Params.description }}
-	<meta name="og:description" content="{{ .Params.description }}"/>
+	<meta property="og:description" content="{{ .Params.description }}"/>
 	{{ end }}
-	<meta name="og:site_name" content="{{ .Site.Title }}"/>
+	<meta property="og:site_name" content="{{ .Site.Title }}"/>
 
 
     <!-- including bootstrap -->
