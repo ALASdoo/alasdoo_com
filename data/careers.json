@@ -2,17 +2,24 @@
   "title" : "Careers",
   "content" : [
     {
-      "title" : "Lead QA Engeneer",
+      "title" : "Lead QA Engineer",
       "button" : {
         "text" : "Apply now",
         "href" : "//www.alasdoo.com/jobs/lead-qa-engineer/"
       }
     },
     {
-      "title" : "QA Engeneer",
+      "title" : "QA Engineer",
       "button" : {
         "text" : "Apply now",
         "href" : "//www.alasdoo.com/jobs/qa-engineer/"
+      }
+    },
+    {
+      "title" : "Automated QA Engineer",
+      "button" : {
+        "text" : "Apply now",
+        "href" : "//www.alasdoo.com/jobs/automated-qa-engineer/"
       }
     }
   ]
