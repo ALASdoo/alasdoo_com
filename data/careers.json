@@ -21,6 +21,13 @@
         "text" : "Apply now",
         "href" : "//www.alasdoo.com/jobs/automated-qa-engineer/"
       }
+    },
+    {
+      "title" : "Full Stack Software Developer",
+      "button" : {
+        "text" : "Apply now",
+        "href" : "//www.alasdoo.com/jobs/fullstack/"
+      }
     }
   ]
 }
