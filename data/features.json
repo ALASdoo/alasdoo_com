@@ -1,21 +1,21 @@
 {
   "title" : "Our Services",
-  "description" : "Our services include working with different methodologies like Agile, Scrumm, Traditional. We adapt to any standard or custom methodology used at the partner's end.",
+  "description" : "Never afraid to take the leap, we are always ready to adapt to your preferred methodology to provide solutions tailored for your needs. Our expertise lies in Traditional, Scrumm, and Agile methodologies.",
   "content" : [
     {
       "icon" : "code",
       "title" : "Web Development",
-      "description" : "We help you craft functional and high-performing apps and websites through our effective web development services."
+      "description" : "Stand out from the rest and attain that competitive edge for your business. At ALAS doo we create modern website solutions delivering smooth experience for your target audience. Our experts walk you through each step of the design and development to make sure that the final product echoes your motto."
     },
     {
       "icon" : "bug",
-      "title" : "WeDoQA.com",
-      "description" : "We specialize in Quality Assurance and we do it exceptionally. We are an official Selenium Commercial support provider as part of the Selenium Ecosystem."
+      "title" : "Quality Assurance - WeDoQA.com",
+      "description" : "At WeDoQA by ALAS doo our priority is quality. Our quality assurance team has the right experience, expertise, and passion to ensure that your software meets the highest of standards. As globally recognized QA provider, we are respected worldwide by software development teams. ALAS doo is proud to be an official Selenium Commercial support provider as part of the Selenium Ecosystem."
     },
     {
       "icon" : "bell",
       "title" : "Project Management",
-      "description" : "We can take over the PM of any project in any stage of development. If needed we can bring in our in house QA team to make sure the final product is on time and of high quality."
+      "description" : "Ensuring optimal use of resources while adapting to the rapidly changing environment through innovative flexibility. Our team specializes in Agile Software Development which is the crux of efficient and effective project management. We boast a professional Scrumm team; where aligning your product vision with the technical team is our top priority. At ALAS doo we believe in transparency of process. Our team fearlessly takes over projects at any stage of development to take it towards a glorious finish."
     }
   ]
 }
