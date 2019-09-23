@@ -43,22 +43,27 @@ PS: Aspirants will be considered even when their qualification and skills don't 
 ---
 ### BENEFITS
 __ALAS doo is one Energetic and Exciting Workplace__
+
 * An energetic team of go-getters at ALAS doo, always excited about breaking new bounds.
 * Stable and on-going employment with a steady stream of exciting projects.
 * A refreshing work environment with a yard and plenty chill-out areas.
 * An easily accessible work place by car, bus, bike or foot.
 
 __ALAS doo cares about its Talents__
+
 * Your private time is safe with our 8 hour work day and no forced overtime.
 * An attractive pay check that keeps you motivated.
 
 __ALAS doo’s mouthwatering Perks__
+
 * Enjoy sponsored lunch and delicious coffee at work.
 * Enjoy weekly visits from a massage therapist.
 
 ---
 ### Are you the one we have been looking to hire?
+
 Take on the ALAS doo challenge!
+
 Join the team today!
 
 > Send your CV to: <jobs@alasdoo.com>
