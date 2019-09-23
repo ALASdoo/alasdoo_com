@@ -5,7 +5,7 @@ type: job
 layout: single
 ---
 
-_ALAS doo is a web development service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality Assurance is our passion and specialty_
+_ALAS doo is a web development and quality assurance service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality Assurance is our passion and specialty._
 
 > Driven by these, we are looking to hire a talented Automated Quality Assurance Engineer for full-time employment in Novi Sad, Serbia.
 >
