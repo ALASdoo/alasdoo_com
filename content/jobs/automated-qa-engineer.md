@@ -5,51 +5,62 @@ type: job
 layout: single
 ---
 
-> We are searching for Automated QA engineer as a full time employee located in Novi Sad, Serbia.
+_ALAS doo is a web development service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality Assurance is our passion and specialty_
+
+> Driven by these, we are looking to hire a talented Automated Quality Assurance Engineer for full-time employment in Novi Sad, Serbia.
 >
-> You will be part of a remote team of developers who will work directly with our clients all over the world and will be helping in the Quality Assurance of those projects.
+> You will work alongside our remote team of developers and provide Quality Assurance support on projects, as we continue to offer our global clients unmatched service quality.
 >
-> If you have experience in Java or C# this position is right for you. Selenium knowledge is preferred but not a must. You will have the chance to work on exciting projects and gain experience in various fields.
->
-> It is crucial that you have excellent communication skills and a good understanding of international business relations that will enable you to communicate clearly by Skype, telephone and e-mail in English. If the software architecture and the quality of the code are important things for you, we will be happy to hear from you.
+> We are opening our doors to talents who are enthusiastic about software architecture and quality, and are looking to build their knowledge and experience in diverse areas.
 
 ### RESPONSIBILITIES
-* Test applications and websites for the clients
+* Test clients' applications and websites
 * Develop scripts for automated testing
-* Expand our in house framework for automated testing
-* Write unit tests
-* Write smoke tests and other test cases
-* Run Smoke tests
-* UI/UX testing, Functional testing...
+* UI/UX testing
+* Functional testing
+* Develop and expand in-house framework for automated testing
+* Write and run unit tests, smoke tests and other test cases
 
 ---
-### REQUIRED SKILLS
+### TECHNICAL SKILLS
 * C# or Java
 * SQL
 * Source control
-* Selenium preferable, but not mandatory
-* Good eye for the details
+* Selenium (preferable, but not compulsory)
+* Keen attention to project details
+* Great communication skills: remote and physical
+* A grasp of international business relations and cross-cultural competence
+* Excellent Team Player
 
 ---
-### QUALIFICATIONS
-* Education: Bachelors degree in Computer Science, Information Systems or related field.
-* Experience: We will consider students as well as experienced workers.
-* Very good oral and written English skills.
-* We will consider candidates that are not a perfect match for the required skills & qualifications
+### WHAT QUALIFIES YOU?
+* Education: A bachelor’s degree in computer science, information systems or related fields.
+* Language: Aspirants must have an excellent grasp of oral and written English.
+* Experience: Student can apply, as well as an experienced worker.
+
+PS: Aspirants will be considered even when their qualification and skills don't perfectly match these.
 
 ---
-### WE OFFER
-* Stable and ongoing work
-* Team of professionals getting things done and always looking for improvement
-* We respect your private life, you will not be forced to do overtime
-* 8h workday
-* Pleasant work environment (house with a yard & plenty of chill out/entertainment areas), good connection by car/bus/bike/foot, and good coffee
-* Attractive salary
-* Sponsored lunch
-* Weekly visit from a massage therapist
+### BENEFITS
+__ALAS doo is one Energetic and Exciting Workplace__
+* An energetic team of go-getters at ALAS doo, always excited about breaking new bounds.
+* Stable and on-going employment with a steady stream of exciting projects.
+* A refreshing work environment with a yard and plenty chill-out areas.
+* An easily accessible work place by car, bus, bike or foot.
+
+__ALAS doo cares about its Talents__
+* Your private time is safe with our 8 hour work day and no forced overtime.
+* An attractive pay check that keeps you motivated.
+
+__ALAS doo’s mouthwatering Perks__
+* Enjoy sponsored lunch and delicious coffee at work.
+* Enjoy weekly visits from a massage therapist.
 
 ---
-### ARE YOU INTERESTED?
+### Are you the one we have been looking to hire?
+Take on the ALAS doo challenge!
+Join the team today!
+
 > Send your CV to: <jobs@alasdoo.com>
 
 ---
