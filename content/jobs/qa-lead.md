@@ -5,11 +5,13 @@ type: job
 layout: single
 ---
 
-> We are searching for a lead QA engineer as a full time employee located in Novi Sad, Serbia.
+_ALAS doo is a web development and quality assurance service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality Assurance is our passion and specialty._
+
+> Driven by these, we are looking to hire a talented Quality Assurance Lead for full-time employment in Novi Sad, Serbia.
 >
-> In this role, you will be responsible for leading QA initiatives, implementing QA best practices and tools, and managing the QA team.
+> You will be responsible for leading QA initiatives, implementing QA best practices and tools, and managing the QA team, as we continue to offer our global clients unmatched service quality.
 >
-> You will be able to gain experience how to work in an international team with highly skilled people, how to make a product more stable and more usable for the final users.
+> We are opening our doors to talents who are enthusiastic about software quality, and are looking to build their knowledge and experience in diverse areas.
 
 ### RESPONSIBILITIES
 * Define QA strategy (e.g. manual, automated) to be implemented per application area / feature / scrum team
@@ -24,28 +26,42 @@ layout: single
 * 2 years’ experience leading and managing a QA Team
 * Solid understanding of web technologies and relational databases
 * Experience executing and coordinating integration, system, regression and user-acceptance testing
-* Good eye for the details
+* Keen attention to project details
 
 ---
 ### QUALIFICATIONS
-* Very good oral and written English skills
-* Experience in Agile/Scrum methodologies
-* Bachelor’s Degree from four year college or university, or four to six years of related experience and/or training, or equivalent combination of education and experience.
-* We will consider candidates that are not a perfect match for the required skills & qualifications
+* Education: A bachelor’s degree from four year college or university, or four years of related experience and/or training, or equivalent combination of education and experience.
+* Language: Aspirants must have an excellent grasp of oral and written English.
+* Experience: Agile/Scrum methodologies
+
+PS: Aspirants will be considered even when their qualification and skills don't perfectly match these.
 
 ---
-### WE OFFER
-* Stable and ongoing work
-* Team of professionals getting things done and always looking for improvement
-* We respect your private life, you will not be forced to do overtime
-* 8h workday
-* Pleasant work environment (house with a yard & plenty of chill out/entertainment areas), good connection by car/bus/bike/foot, and good coffee
-* Attractive salary
-* Sponsored lunch
-* Weekly visit from a massage therapist
+### BENEFITS
+__ALAS doo is one Energetic and Exciting Workplace__
+
+* An energetic team of go-getters at ALAS doo, always excited about breaking new bounds.
+* Stable and on-going employment with a steady stream of exciting projects.
+* A refreshing work environment with a yard and plenty chill-out areas.
+* An easily accessible work place by car, bus, bike or foot.
+
+__ALAS doo cares about its Talents__
+
+* Your private time is safe with our 8 hour work day and no forced overtime.
+* An attractive pay check that keeps you motivated.
+
+__ALAS doo’s mouthwatering Perks__
+
+* Enjoy sponsored lunch and delicious coffee at work.
+* Enjoy weekly visits from a massage therapist.
 
 ---
-### ARE YOU INTERESTED?
+### Are you the one we have been looking to hire?
+
+Take on the ALAS doo challenge!
+
+Join the team today!
+
 > Send your CV to: <jobs@alasdoo.com>
 
 ---
