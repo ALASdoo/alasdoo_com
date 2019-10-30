@@ -29,6 +29,7 @@
     {{ $sass := resources.Get "/scss/bootstrap.scss" }}
     {{ $style := $sass | resources.ToCSS | resources.Minify}}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="723a3fab-7b9a-4244-abee-4e8f44e700bc" data-blockingmode="auto" type="text/javascript"></script>
   </head>
   <body>
 
