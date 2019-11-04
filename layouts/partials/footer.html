@@ -4,9 +4,10 @@
     <span class="text-muted">{{ $footer.footertext }}</span>
     <span class="float-right">
       {{ range $key, $value := .Site.Data.social }}
-        <a href="{{ $value }}" class="ml-2 btn-{{$key}}"><i class="fab fa-{{ $key }}"></i></a>
+      <a href="{{ $value }}" class="ml-2 btn-{{ $key }}"
+        ><i class="fab fa-{{ $key }}"></i
+      ></a>
       {{ end }}
     </span>
   </div>
-  <script id="CookieDeclaration" src="https://consent.cookiebot.com/723a3fab-7b9a-4244-abee-4e8f44e700bc/cd.js" type="text/javascript" async></script>
 </section>
