@@ -1,11 +1,11 @@
 {
-	"title" : "Because quality matters!",
-	"description" : "Whether you are an enterprise, a small business owner, or a start-up; we help you elevate growth with excellence idyllic for your business needs. ALAS doo is acknowledged for exemplary Services in Web Development, Quality Assurance, and Project Management.",
-	"illustration" : "freelancing.svg",
-	"alt_text" : "Or see why we are worth it",
-	"alt_href" : "#features",
-	"button" : {
-		"text" : "Contact us",
-		"href" : "#contact"
-	}
+  "title": "Because quality matters!",
+  "description": "ALAS doo is a web development and quality assurance service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality is our passion and specialty.",
+  "illustration": "freelancing.svg",
+  "alt_text": "Or see why we are worth it",
+  "alt_href": "#features",
+  "button": {
+    "text": "Contact us",
+    "href": "#contact"
+  }
 }

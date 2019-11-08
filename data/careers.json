@@ -1,32 +1,33 @@
 {
-  "title" : "Careers",
-  "content" : [
+  "title": "Careers",
+  "description": "Are you ready to immerse yourself in an experience driven by passion for quality and inspiration? Enjoy creative brainstorms, exciting solutions, and unlimited applause for innovation that we bring daily to the office. At ALAS doo we know how to work hard and work awesome, and we are always on a look out for smart people who are not afraid of taking a leap.",
+  "content": [
     {
-      "title" : "Lead QA Engineer",
-      "button" : {
-        "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobs/lead-qa-engineer/"
+      "title": "Lead QA Engineer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/lead-qa-engineer/"
       }
     },
     {
-      "title" : "QA Engineer",
-      "button" : {
-        "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobs/qa-engineer/"
+      "title": "QA Engineer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/qa-engineer/"
       }
     },
     {
-      "title" : "Automated QA Engineer",
-      "button" : {
-        "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobs/automated-qa-engineer/"
+      "title": "Automated QA Engineer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/automated-qa-engineer/"
       }
     },
     {
-      "title" : "Full Stack Software Developer",
-      "button" : {
-        "text" : "Apply now",
-        "href" : "//www.alasdoo.com/jobs/fullstack/"
+      "title": "Full Stack Software Developer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/fullstack/"
       }
     }
   ]

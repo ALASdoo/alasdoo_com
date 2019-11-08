@@ -1,12 +1,13 @@
 {
-	"components" : [
-		"cover",
-		"features",
-		"team",
-		"clients",
-		"careers",
-		"contact"
-	],
-	"email": "info@alasdoo.com",
-	"googleAnalytics": "UA-8478722-1"
+  "components": [
+    "cover",
+    "features",
+    "about",
+    "team",
+    "clients",
+    "careers",
+    "contact"
+  ],
+  "email": "info@alasdoo.com",
+  "googleAnalytics": "UA-8478722-1"
 }
