@@ -1,26 +1,30 @@
 {
-  "brand" : "ALAS d.o.o.",
-  "logo" : "logo.svg",
-  "links" : [
+  "brand": "ALAS d.o.o.",
+  "logo": "logo.svg",
+  "links": [
     {
-      "title" : "Home",
-      "href" : ""
+      "title": "Home",
+      "href": ""
     },
     {
-      "title" : "Services",
-      "href" : "#features"
+      "title": "Services",
+      "href": "#features"
     },
     {
-      "title" : "Team",
-      "href" : "#team"
+      "title": "About Us",
+      "href": "#about"
     },
     {
-      "title" : "Careers",
-      "href" : "#careers"
+      "title": "Team",
+      "href": "#team"
     },
     {
-      "title" : "Contact",
-      "href" : "#contact"
+      "title": "Careers",
+      "href": "#careers"
+    },
+    {
+      "title": "Contact",
+      "href": "#contact"
     }
   ]
 }
