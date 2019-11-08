@@ -1,0 +1,45 @@
+[
+  {
+    "title": "GROWING WHILE STAYING ROOTED",
+    "description": "On April 1st, 1989 ALAS doo was founded in Zrenjanin, Serbia, at that point leading information technology developing center in Serbia. Considering the company was named after Mihailo Petrovic Alas, influential Serbian mathematician and inventor, the principal idea was computer engineering. Since then, ALAS doo, continues to provide expert custom solutions to emerging businesses, and large enterprises. Catering to the growing need for qualified developers globally; ALAS doo is now one of the most reliable outsourcing companies. With our firm faith in quality and reliability, we continue to grow slowly but steadily.",
+    "css": "text-center"
+  },
+  {
+    "title": "Vision Statement",
+    "description": "Achieve the true potential of your business through exemplary solutions in Web Development, Quality Assurance, and Project Management."
+  },
+  {
+    "title": "Mission Statement",
+    "description": "To ensure steady growth while staying true to promise of providing quality solutions."
+  },
+  {
+    "title": "Values",
+    "description": "Our value for quality and reliability serves as an integral component of our growth. This allows us to be the first choice in software development and IT solutions. All of this, while strengthening our position as the market leader.",
+    "details": [
+      {
+        "title": "Honesty & Integrity",
+        "description": "Leading with integrity as well as empathy towards the achievement of our vision for excellence and unmatched quality solutions in the field of IT and QA."
+      },
+      {
+        "title": "Technological Innovation",
+        "description": "Never afraid to take the leap, diving into the wonders of technological innovation to discover hidden possibilities and limitless potentials."
+      },
+      {
+        "title": "Trust & Accountability",
+        "description": "Building lasting relationships with clear and straightforward processes, guiding you to excellence."
+      },
+      {
+        "title": "Passion for Invention",
+        "description": "Accomplishing new altitudes and elevated potentials through our faith in invention."
+      },
+      {
+        "title": "Commitment for Quality & Simplicity",
+        "description": "Continuously improving quality as a customer-cantered company, while exceeding expectations."
+      },
+      {
+        "title": "Teamwork",
+        "description": "Embracing individualism, creativity, and diversity for the amalgamation of a perfect team. ALAS doo, leads with its firm faith in the power of teamwork."
+      }
+    ]
+  }
+]
