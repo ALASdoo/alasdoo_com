@@ -1,151 +1,161 @@
 {
-  "title" : "Team",
-  "description" : "We are team of people rich in knowledge, expertise, and dedication. We work together to achieve unmatched quality that makes ALAS doo exemplary in excellence and not just mindless success. ALAS doo boasts a team that shares its commitment to quality. The small yet professional team of individuals is passionate about what they do and not just some developer robots. Since 1989, we take pride in comprising of a team that has time and again proven its unmatched potential.",
-  "members" : [
+  "title": "Team",
+  "description": "We are team of people rich in knowledge, expertise, and dedication. We work together to achieve unmatched quality that makes ALAS doo exemplary in excellence and not just mindless success. ALAS doo boasts a team that shares its commitment to quality. The small yet professional team of individuals is passionate about what they do and not just some developer robots. Since 1989, we take pride in comprising of a team that has time and again proven its unmatched potential.",
+  "members": [
     {
-      "name" : "Vilmos Somogyi",
-      "description" : "CEO",
-      "avatar" : "vilmos.jpg"
+      "name": "Vilmos Somogyi",
+      "description": "CEO",
+      "avatar": "vilmos.jpg"
     },
     {
-      "name" : "Tibor Dudjik",
-      "description" : "COO",
-      "avatar" : "tibor.jpg"
+      "name": "Tibor Dudjik",
+      "description": "COO",
+      "avatar": "tibor.jpg"
     },
     {
-      "name" : "Maja Alic Dudjik",
-      "description" : "CFO",
-      "avatar" : "maja.jpg"
+      "name": "Maja Alic Dudjik",
+      "description": "CFO",
+      "avatar": "maja.jpg"
     },
     {
-      "name" : "Szabolcs Varsandan",
-      "description" : "QA Lead",
-      "avatar" : "szabolcs.jpg"
+      "name": "Szabolcs Varsandan",
+      "description": "QA Lead",
+      "avatar": "szabolcs.jpg"
     },
     {
-      "name" : "Akos Szabo",
-      "description" : "QA Engineer",
-      "avatar" : "akos.jpg"
+      "name": "Akos Szabo",
+      "description": "QA Engineer",
+      "avatar": "akos.jpg"
     },
     {
-      "name" : "Aleksandar Gospodinovic",
-      "description" : "QA Engineer",
-      "avatar" : "lesa.jpg"
+      "name": "Arpad Pletikosic",
+      "description": "Automated QA Engineer",
+      "avatar": "arpad.jpg"
     },
     {
-      "name" : "Aleksandra Kosanovic",
-      "description" : "Front-End Developer",
-      "avatar" : "aleksandra.jpg"
+      "name": "Aleksandar Gospodinovic",
+      "description": "QA Engineer",
+      "avatar": "lesa.jpg"
     },
     {
-      "name" : "Bojana Lazarevic",
-      "description" : "QA Engineer",
-      "avatar" : "bojana.jpg"
+      "name": "Aleksandra Kosanovic",
+      "description": "Front-End Developer",
+      "avatar": "aleksandra.jpg"
     },
     {
-      "name" : "Dane Dukic",
-      "description" : "Automated QA Engineer",
-      "avatar" : "dane.jpg"
+      "name": "Bojana Lazarevic",
+      "description": "QA Engineer",
+      "avatar": "bojana.jpg"
     },
     {
-      "name" : "Daniel Snejder",
-      "description" : "QA Engineer",
-      "avatar" : "daniel.jpg"
+      "name": "Dane Dukic",
+      "description": "Automated QA Engineer",
+      "avatar": "dane.jpg"
     },
     {
-      "name" : "Dragan Martinovic",
-      "description" : "QA Engineer",
-      "avatar" : "dragan.jpg"
+      "name": "Daniel Snejder",
+      "description": "QA Engineer",
+      "avatar": "daniel.jpg"
     },
     {
-      "name" : "Ines Prlainovic",
-      "description" : "QA Engineer",
-      "avatar" : "ines.jpg"
+      "name": "Dragan Martinovic",
+      "description": "QA Engineer",
+      "avatar": "dragan.jpg"
     },
     {
-      "name" : "Ivan Konjevic",
-      "description" : "Automated QA Engineer",
-      "avatar" : "ivan.jpg"
+      "name": "Ines Prlainovic",
+      "description": "QA Engineer",
+      "avatar": "ines.jpg"
     },
     {
-      "name" : "Ivana Tetkic",
-      "description" : "QA Engineer",
-      "avatar" : "ivana.jpg"
+      "name": "Ivan Konjevic",
+      "description": "Automated QA Engineer",
+      "avatar": "ivan.jpg"
     },
     {
-      "name" : "Janos Bednarik",
-      "description" : "QA Engineer",
-      "avatar" : "janos.jpg"
+      "name": "Ivana Tetkic",
+      "description": "QA Engineer",
+      "avatar": "ivana.jpg"
     },
     {
-      "name" : "Jelena Krstic",
-      "description" : "Office Manager / QA Engineer",
-      "avatar" : "jelena.jpg"
+      "name": "Janos Bednarik",
+      "description": "QA Engineer",
+      "avatar": "janos.jpg"
     },
     {
-      "name" : "Luka Pavlica",
-      "description" : "Back-End Developer",
-      "avatar" : "luka.jpg"
+      "name": "Jelena Krstic",
+      "description": "Office Manager / QA Engineer",
+      "avatar": "jelena.jpg"
     },
     {
-      "name" : "Marco Lempen",
-      "description" : "Sales Consultant",
-      "avatar" : "marco.jpg"
+      "name": "Luka Pavlica",
+      "description": "Back-End Developer",
+      "avatar": "luka.jpg"
     },
     {
-      "name" : "Marina Petrovic",
-      "description" : "Automated QA Engineer",
-      "avatar" : "marina.jpg"
+      "name": "Marco Lempen",
+      "description": "Sales Consultant",
+      "avatar": "marco.jpg"
     },
     {
-      "name" : "Milica Lazic",
-      "description" : "Back-End Developer",
-      "avatar" : "milica.jpg"
+      "name": "Marina Petrovic",
+      "description": "Automated QA Engineer",
+      "avatar": "marina.jpg"
     },
     {
-      "name" : "Miroljub Arbutina",
-      "description" : "Back-End Developer",
-      "avatar" : "miroljub.jpg"
+      "name": "Milica Lazic",
+      "description": "Back-End Developer",
+      "avatar": "milica.jpg"
     },
     {
-      "name" : "Nemanja Milenkovic",
-      "description" : "Back-End Developer",
-      "avatar" : "nemanja.jpg"
+      "name": "Miroljub Arbutina",
+      "description": "Back-End Developer",
+      "avatar": "miroljub.jpg"
     },
     {
-      "name" : "Tamas Kovacsics",
-      "description" : "Automated QA Engineer",
-      "avatar" : "tamas.jpg"
+      "name": "Nemanja Milenkovic",
+      "description": "Back-End Developer",
+      "avatar": "nemanja.jpg"
     },
     {
-      "name" : "Tanja Jovanovic",
-      "description" : "Automated QA Engineer",
-      "avatar" : "tanja.jpg"
+      "name": "Tamas Kovacsics",
+      "description": "Automated QA Engineer",
+      "avatar": "tamas.jpg"
     },
     {
-      "name" : "Tibor Szakmany",
-      "description" : "Back-End Developer",
-      "avatar" : "tibor_szakmany.jpg"
+      "name": "Tanja Jovanovic",
+      "description": "Automated QA Engineer",
+      "avatar": "tanja.jpg"
     },
     {
-      "name" : "Tihomir Popov",
-      "description" : "Front-End Developer",
-      "avatar" : "tihomir.jpg"
+      "name": "Tibor Szakmany",
+      "description": "Back-End Developer",
+      "avatar": "tibor_szakmany.jpg"
     },
     {
-      "name" : "Valentino Milanov",
-      "description" : "Automated QA Engineer",
-      "avatar" : "valentino.jpg"
+      "name": "Tihomir Popov",
+      "description": "Front-End Developer",
+      "avatar": "tihomir.jpg"
     },
     {
-      "name" : "Vlatko Dimitrovski",
-      "description" : "Automated QA Engineer",
-      "avatar" : "vlatko.jpg"
+      "name": "Valentino Milanov",
+      "description": "Automated QA Engineer",
+      "avatar": "valentino.jpg"
     },
     {
-      "name" : "Zoltan Meze",
-      "description" : "Automated QA Engineer",
-      "avatar" : "zoltan.jpg"
+      "name": "Vlatko Dimitrovski",
+      "description": "Automated QA Engineer",
+      "avatar": "vlatko.jpg"
+    },
+    {
+      "name": "Zoltan Horvat",
+      "description": "Automated QA Engineer",
+      "avatar": "horvatzoltan.jpg"
+    },
+    {
+      "name": "Zoltan Meze",
+      "description": "Automated QA Engineer",
+      "avatar": "zoltan.jpg"
     }
   ]
 }
