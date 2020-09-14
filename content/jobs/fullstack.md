@@ -29,7 +29,7 @@ The Client is a global "Software as a Service" company that makes it easy for In
 * C#, .NET
 * Experience with Angular, JavaScript, HTML, CSS
 * SQL and MSSQL(TransactSQL)
-* Experiance with Python is plus
+* Experience with Python is plus
 * Experience working with version control systems such as SVN
 * Experience running a real world website with at least 50 000 visitors per day with a large database is an advantage
 * Great communication skills: remote and physical
