@@ -7,7 +7,7 @@ layout: single
 
 _ALAS doo is a web development and quality assurance service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality Assurance is our passion and specialty._
 
-> Driven by these, we are looking to hire a talented Full Stack Software Developer for full-time employment in Novi Sad, Serbia.
+> Driven by these, we are looking to hire a talented Backend Stack Software Developer for full-time employment in Novi Sad, Serbia.
 >
 > You will be part of a remote team of developers who will work directly with our Danish client and will be helping in the development of a special content management system for easy website creation.
 >
@@ -32,9 +32,9 @@ The Client is a global "Software as a Service" company that makes it easy for In
 ### TECHNICAL SKILLS
 
 - C#, .NET
-- Experience with Angular, JavaScript, HTML, CSS
+- Experience with Python is a plus
 - SQL and MSSQL(TransactSQL)
-- Experience working with version control systems such as SVN
+- Experience working with version control systems such as GIT
 - Experience running a real world website with at least 50 000 visitors per day with a large database is an advantage
 - Great communication skills: remote and physical
 - A grasp of international business relations and cross-cultural competence
@@ -46,9 +46,9 @@ The Client is a global "Software as a Service" company that makes it easy for In
 
 - Education: A bachelor’s degree in computer science, information systems or related fields.
 - Language: Aspirants must have an excellent grasp of oral and written English.
-- Experience: 1+ years direct experience in a professional capacity
+- Experience: 1+ years direct experience in a professional capacity. We will consider students of final year with project work experience
 
-PS: Aspirants will be considered even when their qualification and skills don't perfectly match these.
+PS: Aspirants will be considered even when their qualification and skills don't perfectly match these. 
 
 ---
 
