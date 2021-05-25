@@ -43,6 +43,13 @@
         "text": "Apply now",
         "href": "//www.alasdoo.com/jobs/backend/"
       }
+    },
+    {
+      "title": "Python Developer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/python/"
+      }
     }
   ]
 }
