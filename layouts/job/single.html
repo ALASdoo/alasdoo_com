@@ -1,30 +1,35 @@
 {{ $header := .Site.Data.header }}
 {{- $logoSrc := printf "images/%s" $header.logo | absURL -}}
 {{ partial "header.html" . }}
-  <section id="logo">
-      <a href="{{.Site.BaseURL}}"><img src="{{$logoSrc}}" /></a>
-  </section>
-  <section id="main">
-    <div class="container">
-        <h1 class="pt-5 h2 text-center">Job: {{ .Title }}</h1>
+<section id="logo">
+  <a href="{{.Site.BaseURL}}"><img src="{{$logoSrc}}" /></a>
+</section>
+<section id="main">
+  <div class="container">
+    <h1 class="pt-5 h2 text-center">Job: {{ .Title }}</h1>
 
-        <div>
-          {{ .Content }}
-        </div>
+    <div>
+      {{ .Content }}
+    </div>
 
-      </div>
-  </section>
+  </div>
+</section>
 
-  <style type="text/css">
-    #logo img {
-      display: block;
-      max-width: 300px;
-      margin: 50px auto 0px;
-    }
-    #main blockquote{
-      padding: 2rem;
-      margin-bottom: 2rem;
-      background-color: #e9ecef;
-      border-radius: .3rem;
-    }
-  </style>
+<style type="text/css">
+  #logo img {
+    display: block;
+    max-width: 300px;
+    margin: 50px auto 0px;
+  }
+
+  #main blockquote {
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+  }
+
+  #main .container {
+    padding-bottom: 50px;
+  }
+</style>
