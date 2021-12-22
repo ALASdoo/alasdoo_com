@@ -73,4 +73,6 @@ Join the team today!
 
 ### APPLICATION DEADLINE
 
-We perform interviews as applications come in and encourage you to apply as soon as possible, if you are interested.
+We conduct interviews on a first-come, first-served basis and encourage you to apply as soon as possible!
+
+Only short-listed candidates will be invited for an interview. Thank you for applying!
