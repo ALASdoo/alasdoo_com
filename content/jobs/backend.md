@@ -1,5 +1,5 @@
 ---
-title: Backend Software Developer
+title: Java Backend Software Developer
 slug: 'backend'
 type: job
 layout: single
@@ -7,9 +7,9 @@ layout: single
 
 _ALAS doo is a web development and quality assurance service company that has out-of-the-box innovation, ingenuity and originality at the heart of its business. We go the extra-mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality Assurance is our passion and specialty._
 
-> Driven by these, we are looking to hire a talented Backend Stack Software Developer for full-time employment in Novi Sad, Serbia.
+> Driven by these, we are looking to hire a talented Java Backend Software Developer for full-time employment in Novi Sad, Serbia.
 >
-> You will be part of a remote team of developers who will work directly with our Danish client and will be helping in the development of a special content management system for easy website creation.
+> You will be part of a remote team of developers who will work directly with our international client.
 >
 > The project you will be working on is a complex service that has been developed for years and not just a temporary project that will finish in a couple of months. It is crucial that you have excellent communication skills and a good understanding of international business relations that will enable you to communicate clearly by video call, telephone and e-mail. Key parts of the interview will be conducted in English.
 >
@@ -17,38 +17,26 @@ _ALAS doo is a web development and quality assurance service company that has ou
 
 ### THE CLIENT
 
-The Client is a global "Software as a Service" company that makes it easy for Internet users to make their own websites. You will have a unique opportunity to become part of a leading global supplier of websites for private individuals and small businesses. Every month we sign up around 300.000 new users and 5000 new paying customers, but our ambitions go way beyond that. Our goal is to become one of the world's top ten website builder applications and you can be a key player in achieving that goal. Our company foundation is solidly positioned for growth and now we just need you to move forward.
+The Client is the global leader in social and digital consumer intelligence, working with the biggest brands and most admired agencies worldwide – 39 of the Fortune 100 are clients.
+They build smart software solutions that help capture, understand and share insights from millions of conversations across the web and beyond. Home to over 500 people worldwide with offices in 10 locations, it is a place that motivates and supports its staff to find answers to new problems in an ever changing social and digital world.
+
+They build a suite of analytics software products that allow their customers to measure and predict consumer behavior online. Ingesting enormous quantities of unstructured consumer voice data; such as publicly available social media data, blogs, forums etc.... The customers then search and analyze this data, using the built tools, to achieve various marketing and market research outcomes; for example: "What do consumers like about our new product?"
 
 ---
 
-### RESPONSIBILITIES
+### WHY WORK HERE
 
-- Design and develop new product features backend and frontend
-- Database design and improvements
-- Develop unit tests
+As a backend engineer, you will work within a cross-skilled agile team in the Engineering department, contributing directly to the flagship product Consumer Research. You will contribute to improving existing and developing new features, working closely not only with other backend engineers across the entire department, but also with product & delivery managers, data scientists, designers, as well as QA & frontend engineers, to solve user problems.
 
----
+You will do so by designing, developing, improving and maintaining a real-time text and image data processing pipelines using infrastructure on the terabyte to petabyte level. You will work on implementing custom machine learning solutions developed by the data science team, and APIs that support both the product as well as API users.
 
-### TECHNICAL SKILLS
-
-- C#, .NET
-- Experience with Python is a plus
-- SQL and MSSQL(TransactSQL)
-- Experience working with version control systems such as GIT
-- Experience running a real world website with at least 50 000 visitors per day with a large database is an advantage
-- Great communication skills: remote and physical
-- A grasp of international business relations and cross-cultural competence
-- Excellent Team Player
+You will be embedded in a small team. You will work within state-of-the-art technology stack, building Java applications using the Spring Framework and technologies such as Kafka, Solr, Redis, and PostgreSQL. You will ship code in a continuous integration environment using tools such as Git, Github Actions, Jenkins, Docker, and Kubernetes. You will collaborate with global teams based around the world.
 
 ---
 
-### WHAT QUALIFIES YOU?
+### YOU SHOULD APPLY IF
 
-- Education: A bachelor’s degree in computer science, information systems or related fields.
-- Language: Aspirants must have an excellent grasp of oral and written English.
-- Experience: 1+ years direct experience in a professional capacity. We will consider students of final year with project work experience
-
-PS: Aspirants will be considered even when their qualification and skills don't perfectly match these. 
+...you have an applicable prior industry experience of writing and shipping high quality Java code or have a minimum of BSC from a computer science university. We’re looking for people who are keen to learn new skills and new ways of working. If you’ve used some of the other technologies mentioned above, like Git and SQL database, then that’s a plus, but if you haven’t and would like to learn about them then we want to hear from you too.
 
 ---
 
