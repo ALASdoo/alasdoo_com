@@ -38,10 +38,17 @@
       }
     },
     {
-      "title": "Backend Software Developer",
+      "title": "Java Backend Software Developer",
       "button": {
         "text": "Apply now",
         "href": "//www.alasdoo.com/jobs/backend/"
+      }
+    },
+    {
+      "title": "JavaScript Frontend Software Developer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/frontend/"
       }
     },
     {
@@ -49,13 +56,6 @@
       "button": {
         "text": "Apply now",
         "href": "//www.alasdoo.com/jobs/python/"
-      }
-    },
-    {
-      "title": "Office Manager",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/office-manager/"
       }
     }
   ]
