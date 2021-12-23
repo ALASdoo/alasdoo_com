@@ -32,6 +32,8 @@ You will plan and execute tests on real-time text and image data processing pipe
 
 You will be embedded in a small team. You will work within our state-of-the-art technology stack, testing back-end Java applications using the Spring Framework and technologies such as Kafka, Solr, Redis, and PostgreSQL and/or front-end Javascript/Node applications. You will ship automation code in a continuous integration environment using tools such as Git, Github Actions, Jenkins, Docker, and Kubernetes. You will collaborate with global teams based around the world.
 
+---
+
 ### RESPONSIBILITIES
 
 - Participate in the software development life cycle from beginning to end
