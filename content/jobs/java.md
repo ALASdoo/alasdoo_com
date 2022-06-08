@@ -72,6 +72,7 @@ PS: Aspirants will be considered even when their qualification and skills don't 
 
 - Enjoy sponsored lunch and delicious coffee at work.
 - Enjoy weekly visits from a massage therapist.
+- Enjoy customized bonus you can use as you wish (gym/private health insurance, etc).
 
 ---
 
