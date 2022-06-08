@@ -58,6 +58,7 @@ You will be embedded in a small team. You will work within state-of-the-art tech
 
 - Enjoy sponsored lunch and delicious coffee at work.
 - Enjoy weekly visits from a massage therapist.
+- Enjoy customized bonus you can use as you wish (gym/private health insurance, etc).
 
 ---
 
