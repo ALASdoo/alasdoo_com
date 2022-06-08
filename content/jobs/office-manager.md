@@ -52,8 +52,9 @@ _ALAS doo is a web development and quality assurance service company that has ou
 
 **ALAS doo’s mouthwatering Perks**
 
-- Enjoy sponsored lunch
-- Delicious coffee at work
+- Enjoy sponsored lunch and delicious coffee at work.
+- Enjoy weekly visits from a massage therapist.
+- Enjoy customized bonus you can use as you wish (gym/private health insurance, etc).
 
 ---
 
