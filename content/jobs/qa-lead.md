@@ -54,6 +54,7 @@ __ALAS doo’s mouthwatering Perks__
 
 * Enjoy sponsored lunch and delicious coffee at work.
 * Enjoy weekly visits from a massage therapist.
+* Enjoy customized bonus you can use as you wish (gym/private health insurance, etc).
 
 ---
 ### Are you the one we have been looking to hire?
