@@ -23,8 +23,28 @@
       "avatar": "akos.jpg"
     },
     {
-      "name": "Aleksandar Gospodinovic",
+      "name": "Ivana Tetkic",
+      "description": "QA Lead",
+      "avatar": "ivana.jpg"
+    },
+    {
+      "name": "Dragan Martinovic",
+      "description": "QA Lead",
+      "avatar": "dragan.jpg"
+    },
+    {
+      "name": "Aleksa Petrovic",
       "description": "QA Engineer",
+      "avatar": "aleksa.jpg"
+    },
+    {
+      "name": "Aleksandar Gajic",
+      "description": "QA Engineer",
+      "avatar": "aleksandar.jpg"
+    },
+    {
+      "name": "Aleksandar Gospodinovic",
+      "description": "Automated QA Engineer",
       "avatar": "lesa.jpg"
     },
     {
@@ -33,9 +53,24 @@
       "avatar": "aleksandra.jpg"
     },
     {
+      "name": "Anna Martinovic",
+      "description": "QA Engineer",
+      "avatar": "ana.jpg"
+    },
+    {
       "name": "Bojana Lazarevic",
       "description": "QA Engineer",
       "avatar": "bojana.jpg"
+    },
+    {
+      "name": "Boris Jankovic",
+      "description": "QA Engineer",
+      "avatar": "boris.jpg"
+    },
+    {
+      "name": "Damjan Marcikic",
+      "description": "QA Engineer",
+      "avatar": "damjan.jpg"
     },
     {
       "name": "Dane Dukic",
@@ -48,14 +83,39 @@
       "avatar": "daniel.jpg"
     },
     {
-      "name": "Dragan Martinovic",
+      "name": "Dorijan Rastegorac",
       "description": "QA Engineer",
-      "avatar": "dragan.jpg"
+      "avatar": "dorijan.jpg"
     },
     {
-      "name": "Henrietta Balzam",
+      "name": "Dusan Kis",
+      "description": "QA Engineer",
+      "avatar": "dusan.jpg"
+    },
+    {
+      "name": "Dusan Vejnovic",
+      "description": "QA Engineer",
+      "avatar": "dusan_vejnovic.jpg"
+    },
+    {
+      "name": "Eduard Pinter",
       "description": "Automated QA Engineer",
-      "avatar": "henrietta.jpg"
+      "avatar": "eduard.jpg"
+    },
+    {
+      "name": "Filip Kovac",
+      "description": "QA Engineer",
+      "avatar": "filipk.jpg"
+    },
+    {
+      "name": "Filip Marinkovic",
+      "description": "QA Engineer",
+      "avatar": "filipm.jpg"
+    },
+    {
+      "name": "Frantisek Prokopec",
+      "description": "QA Engineer",
+      "avatar": "frantisek.jpg"
     },
     {
       "name": "Ines Prlainovic",
@@ -63,19 +123,24 @@
       "avatar": "ines.jpg"
     },
     {
-      "name": "Ivana Tetkic",
-      "description": "QA Engineer",
-      "avatar": "ivana.jpg"
-    },
-    {
       "name": "Janos Bednarik",
       "description": "QA Engineer",
       "avatar": "janos.jpg"
     },
     {
-      "name": "Jelena Krstic",
-      "description": "Office Manager / QA Engineer",
+      "name": "Jelena Obradovic",
+      "description": "HR",
+      "avatar": "jelena_obradovic.jpg"
+    },
+    {
+      "name": "Jelena Petrovic",
+      "description": "QA Engineer",
       "avatar": "jelena.jpg"
+    },
+    {
+      "name": "Jovana Roncevic-Stanojevic",
+      "description": "QA Engineer",
+      "avatar": "jovana.jpg"
     },
     {
       "name": "Luka Pavlica",
@@ -83,29 +148,44 @@
       "avatar": "luka.jpg"
     },
     {
-      "name": "Marco Lempen",
-      "description": "Sales Consultant",
-      "avatar": "marco.jpg"
-    },
-    {
-      "name": "Marta Gajin",
-      "description": "QA Engineer",
-      "avatar": "marta.jpg"
-    },
-    {
       "name": "Marina Petrovic",
       "description": "Automated QA Engineer",
       "avatar": "marina.jpg"
     },
     {
-      "name": "Milica Lazic",
-      "description": "Back-End Developer",
+      "name": "Milan Stojanovic",
+      "description": "Front-End Developer",
+      "avatar": "milan.jpg"
+    },
+    {
+      "name": "Milica Djuricic",
+      "description": "Automated QA Engineer",
       "avatar": "milica.jpg"
+    },
+    {
+      "name": "Milorad Segan",
+      "description": "Back-End Developer",
+      "avatar": "milorad.jpg"
+    },
+    {
+      "name": "Milos Jevtic",
+      "description": "Back-End Developer",
+      "avatar": "milosjevtic.jpg"
+    },
+    {
+      "name": "Milos Jovanovic",
+      "description": "Automated QA Engineer",
+      "avatar": "milos.jpg"
     },
     {
       "name": "Miroljub Arbutina",
       "description": "Back-End Developer",
       "avatar": "miroljub.jpg"
+    },
+    {
+      "name": "Neda Bogdanovic",
+      "description": "Office Manager",
+      "avatar": "neda.jpg"
     },
     {
       "name": "Nemanja Milenkovic",
@@ -118,9 +198,24 @@
       "avatar": "noemi.jpg"
     },
     {
-      "name": "Sasa Brkic",
+      "name": "Predrag Djilas",
+      "description": "Automated QA Engineer",
+      "avatar": "predrag.jpg"
+    },
+    {
+      "name": "Sandra Kostic",
+      "description": "Automated QA Engineer",
+      "avatar": "sandra.jpg"
+    },
+    {
+      "name": "Stefan Minic",
       "description": "QA Engineer",
-      "avatar": "sasa.jpg"
+      "avatar": "stefan.jpg"
+    },
+    {
+      "name": "Tajana Somogyi",
+      "description": "UI/UX Designer",
+      "avatar": "tajana.jpg"
     },
     {
       "name": "Tamas Kovacsics",
@@ -130,7 +225,7 @@
     {
       "name": "Tibor Szakmany",
       "description": "Back-End Developer",
-      "avatar": "tibor_szakmany.jpg"
+      "avatar": "tiborsz.jpg"
     },
     {
       "name": "Tihomir Popov",
@@ -144,18 +239,18 @@
     },
     {
       "name": "Vlatko Dimitrovski",
-      "description": "Automated QA Engineer",
+      "description": "Back-End Developer",
       "avatar": "vlatko.jpg"
     },
     {
       "name": "Zoltan Horvat",
-      "description": "Automated QA Engineer",
-      "avatar": "horvatzoltan.jpg"
+      "description": "Back-End Developer",
+      "avatar": "zoltan.jpg"
     },
     {
       "name": "Zoltan Meze",
       "description": "Automated QA Engineer",
-      "avatar": "zoltan.jpg"
+      "avatar": "zoltanm.jpg"
     }
   ]
 }
