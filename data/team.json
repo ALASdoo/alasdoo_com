@@ -4,7 +4,7 @@
   "members": [
     {
       "name": "Vilmos Somogyi",
-      "description": "CEO",
+      "description": "Chief Executive Officer",
       "avatar": "vilmos.jpg"
     },
     {
@@ -14,8 +14,13 @@
     },
     {
       "name": "Maja Alic Dudjik",
-      "description": "CFO",
+      "description": "Chief Financial Officer",
       "avatar": "maja.jpg"
+    },
+    {
+      "name": "Tajana Somogyi",
+      "description": "Chief Brand Officer",
+      "avatar": "tajana.jpg"
     },
     {
       "name": "Akos Szabo",
@@ -211,11 +216,6 @@
       "name": "Stefan Minic",
       "description": "QA Engineer",
       "avatar": "stefan.jpg"
-    },
-    {
-      "name": "Tajana Somogyi",
-      "description": "UI/UX Designer",
-      "avatar": "tajana.jpg"
     },
     {
       "name": "Tamas Kovacsics",

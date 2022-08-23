@@ -5,71 +5,85 @@ type: job
 layout: single
 ---
 
-_ALAS doo is a web development and quality assurance service company that has out of the box innovation, ingenuity, and originality at the heart of its business. We go the extra mile to build a motivated and diverse pool of extraordinary talents to ensure that our services always go above and beyond our clients’ needs. Quality is our passion and specialty._
+### WHO ARE WE?
 
-> Driven by these, we are looking to hire an Office Manager for full-time employment in Novi Sad, Serbia.
+ALAS d.o.o. is an outsource Software Development and Quality Assurance company with broad experience in web development, project management, manual and automated testing.
 
-### RESPONSIBILITIES
+We have a cozy office with a yard in Novi Sad, where we develop some pretty useful skills, drink a lot of coffee, play darts, table tennis and board games, and create awesome software solutions along the way.
 
-- Ensuring the smooth running of the office on a day-to-day basis
+We thrive in a positive environment where everybody’s heard and understood, people are polite, assertive, and tackle challenges head on, having fun along the way.
+
+Driven by these, we are looking for You - a reliable, kind & fun person to join our management department.
+
+Your role would be to create and maintain a pleasant work environment, ensuring a high level of organizational effectiveness and communication.
+
+---
+
+### WHAT DO WE EXPECT FROM YOU?
+
+- Managing office space, coordinating and executing office activities, making sure everything is running smoothly
+- Assisting and supporting the management team
+- Manage information flow in a timely and accurate manner
 - Handling company receipts, invoices, and bills
 - Developing, reviewing, and improving administrative systems, policies, and procedures
-- Ensuring that the policies and regulations are properly followed by the staff
-- Conducting and monitoring Covid-19 safety measures
-- Assisting and supporting the management team
-- Coordinating personnel procedures and organizing employment interviews
-- Handling employee queries in all labor management issues (pay, timetables, holidays, sick leave, etc.)
-- Maintaining social networks and company web page (content writing, publishing strategy)
+- Ensuring that the policies and regulations are adequately followed by the staff
+- Working closely with Finance Manager on employees’ documentation
+- Address employees' queries regarding office and labor management issues (pay, timetables, holidays, sick leave, etc.)
+- Purchasing office supplies and equipment and maintaining proper stock levels
+- Maintaining and updating the list of IT equipment, as well as assigning equipment
+- Maintaining the office condition and arranging cleaning and necessary repairs
+- Assist in the onboarding process for new hires (documentation, preparing workspace, equipment, etc.)
+- Help with organizing team buildings and other company activities
 
 ---
 
 ### WHAT QUALIFIES YOU?
 
-- Proactive behavior, solution-oriented approach
-- Self-motivation, ability to work independently, but also within a team
-- Reliable and great organisational skills
+- Proactivity and resourcefulness
+- Ability to work independently, but also within a team
+- Excellent time management skills and ability to multitask and prioritize work
+- Problem-solving skills with a Can Do mindset
+- Excellent written and verbal communication skills
+- A creative mind with an ability to suggest improvements
 - Willingness to grow and improve
-- Great online and face-to-face communication skills
-- A grasp of international business relations and cross-cultural competence
-- A bachelor’s degree in Business Administration, Philology, Economy, or related fields
 - Fluent English language skills (oral and written)
+- Good knowledge of MS Office, especially Excel
+- An active driver's license is a plus
+- Previous experience in similar positions is a plus
+- Higher education or a bachelor's degree is nice to have
 
 ---
 
-### BENEFITS
+### WHAT QUALIFIES US?
 
-**ALAS doo is one Energetic and Exciting Workplace**
+**ALAS is one Energetic and Exciting Workplace**
 
-- An energetic team of go-getters at ALAS doo, always excited about breaking new bounds.
-- Stable and on-going employment with a steady stream of exciting projects.
+- Stable and on-going employment with a steady stream of exciting duties.
+- An easily accessible workplace by car, bus, bike or foot.
 - A refreshing work environment with a yard and plenty chill-out areas.
-- An easily accessible work place by car, bus, bike or foot.
 
-**ALAS doo cares about its Talents**
+**ALAS cares about its Talents**
 
 - Your private time is safe with our 8 hour work day and no forced overtime.
 - An attractive pay check that keeps you motivated.
+- A fertile environment for development and growth
 
-**ALAS doo’s mouthwatering Perks**
+**ALAS mouthwatering Perks**
 
 - Enjoy sponsored lunch and delicious coffee at work.
 - Enjoy weekly visits from a massage therapist.
-- Enjoy customized bonus you can use as you wish (gym/private health insurance, etc).
+- Enjoy a customized bonus you can use as you wish (gym/private health insurance, etc).
 
 ---
 
-### Are you the one we have been looking to hire?
+### Are we the perfect match?
 
-Take on the ALAS doo challenge!
-
-Join the team today!
-
-> Send your CV to: <jobs@alasdoo.com>
+If You think so, simply send your resume to <jobs@alasdoo.com> and leave the rest to us.
 
 ---
 
-### APPLICATION DEADLINE
+### WHEN TO APPLY?
 
-We conduct interviews on a first-come, first-served basis and encourage you to apply as soon as possible!
-
-Only short-listed candidates will be invited for an interview. Thank you for applying!
+As soon as possible!
+We conduct interviews on a first-come, first-served basis, so be fast & fearless!
+Only short-listed candidates will be invited for an interview. We can’t wait to meet You!

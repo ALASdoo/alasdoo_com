@@ -3,6 +3,13 @@
   "description": "Are you ready to immerse yourself in an experience driven by passion for quality and inspiration? Enjoy creative brainstorms, exciting solutions, and unlimited applause for innovation that we bring daily to the office. At ALAS doo we know how to work hard and work awesome, and we are always on a look out for smart people who are not afraid of taking a leap.",
   "content": [
     {
+      "title": "Office Manager",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/office-manager/"
+      }
+    },
+    {
       "title": "Lead QA Engineer",
       "button": {
         "text": "Apply now",
