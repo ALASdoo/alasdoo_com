@@ -3,13 +3,6 @@
   "description": "Are you ready to immerse yourself in an experience driven by passion for quality and inspiration? Enjoy creative brainstorms, exciting solutions, and unlimited applause for innovation that we bring daily to the office. At ALAS doo we know how to work hard and work awesome, and we are always on a look out for smart people who are not afraid of taking a leap.",
   "content": [
     {
-      "title": "Office Manager",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/office-manager/"
-      }
-    },
-    {
       "title": "Lead QA Engineer",
       "button": {
         "text": "Apply now",
@@ -24,45 +17,10 @@
       }
     },
     {
-      "title": "Automated QA Engineer",
+      "title": "Experienced Automated QA Engineer",
       "button": {
         "text": "Apply now",
         "href": "//www.alasdoo.com/jobs/automated-qa-engineer/"
-      }
-    },
-    {
-      "title": "Java Developer",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/java/"
-      }
-    },
-    {
-      "title": "Full Stack Software Developer",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/fullstack/"
-      }
-    },
-    {
-      "title": "Java Backend Software Developer",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/backend/"
-      }
-    },
-    {
-      "title": "JavaScript Frontend Software Developer",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/frontend/"
-      }
-    },
-    {
-      "title": "Python Developer",
-      "button": {
-        "text": "Apply now",
-        "href": "//www.alasdoo.com/jobs/python/"
       }
     }
   ]
