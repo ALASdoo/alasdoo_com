@@ -1,5 +1,5 @@
 ---
-title: Frontend Software Developer
+title: Senior Frontend Software Developer
 slug: 'frontend'
 type: job
 layout: single
@@ -13,7 +13,7 @@ Aligning the product vision with the technical team is our specialty. Through op
 
 We thrive in a positive environment where everybody’s heard and understood, people are polite and assertive, and tackle challenges head-on, having fun along the way.
 
-Driven by these, we are looking for You - a reliable and talented JavaScript Frontend Developer to join our development department.
+Driven by these, we are looking for You - a reliable and talented Frontend Developer to join our development department.
 
 ---
 
@@ -28,9 +28,9 @@ Driven by these, we are looking for You - a reliable and talented JavaScript Fro
 
 ### WHAT QUALIFIES YOU?
 
-- At least a few years of relevant industry experience or minimum of BSC from a computer science university
+- Minimum 5 years of relevant industry experience
 - A good programming-related degree or other technical background
-- Good modern TypeScript programming skills, solid understanding of HTML5, CSS, and Web standards
+- Good modern TypeScript programming skills
 - Enthusiasm for keeping up with industry tools and best practices
 - Experience with Git (a link to your GitHub or GitLab account is a plus)
 - Exposure to Node.js
