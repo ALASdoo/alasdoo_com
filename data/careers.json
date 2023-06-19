@@ -29,6 +29,13 @@
         "text": "Apply now",
         "href": "//www.alasdoo.com/jobs/frontend/"
       }
+    },
+    {
+      "title": "Senior Marketing Manager",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/marketing/"
+      }
     }
   ]
 }
