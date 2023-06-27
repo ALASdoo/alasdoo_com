@@ -15,13 +15,12 @@ Aligning the product vision with the technical team is our specialty. Through op
 
 We thrive in a positive environment where everybody’s heard and understood, people are polite and assertive, and tackle challenges head-on, having fun along the way.
 
-Driven by these, we are looking for You - a reliable and talented Automated QA Engineer to join our QA team.
+Driven by these, we are looking for You - a reliable and talented Automation Engineer to join our QA team.
 
 ### WHAT DO WE EXPECT FROM YOU?
 
 - Participate in the software development life cycle from beginning to end
 - Identify, analyze, and report application defects and assist development with resolution
-- Work in an Agile development environment
 - Write and execute test cases, and document results
 - Verify that corrective actions meet quality objectives
 - View log files, understand them and assist developer in finding root-cause of the bug
@@ -29,15 +28,17 @@ Driven by these, we are looking for You - a reliable and talented Automated QA E
 - Define required testing scope and test scenarios, and review with developers and product management
 - Contribute to automation test suites to support new functionality as well as regression coverage
 - Support and contribute to QA team by sharing best practices, learnings, and providing peer QA code reviews
+- Work in an Agile development environment
 
 ---
 
 ### WHAT QUALIFIES YOU?
 
-- Minimum 5 years of experience working as a QA Engineer
-- At least 3 years of hands-on experience using Selenium WebDriver with Java or Cypress for test automation is a must
+- 3+ years of practical experience testing web applications with Cypress
+- Knowledge of JavaScript
 - Knowledge of test management, test development, and/or test process
 - Experience with QA tools and techniques, bug tracking systems, test design and execution
+- Experience with Git or similar code versioning tool
 - Working knowledge of SDLC and the following QA methods: unit, integration, functional regression and system testing
 - Self-starter able to quickly learn new applications, tools, and technologies, and desire to become a product expert
 - Attention to detail, outstanding analytical and problem-solving skills
@@ -49,8 +50,7 @@ Driven by these, we are looking for You - a reliable and talented Automated QA E
 
 ### WHAT IS NICE TO HAVE?
 
-- Experience with SQL programming and database technologies
-- Know how to work with Git or similar code versioning tool
+- Experience with SQL and database technologies
 - Knowledge of Behavior Driven Testing methodologies like Cucumber
 - Bachelor’s degree in computer science or related field
 
