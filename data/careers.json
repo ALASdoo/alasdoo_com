@@ -36,6 +36,13 @@
         "text": "Apply now",
         "href": "//www.alasdoo.com/jobs/backend/"
       }
+    },
+    {
+      "title": "Full Stack Software Developer",
+      "button": {
+        "text": "Apply now",
+        "href": "//www.alasdoo.com/jobs/fullstack/"
+      }
     }
   ]
 }
